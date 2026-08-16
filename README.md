@@ -22,6 +22,6 @@ I set up an index.html page and made directories for my recipe.html files and fo
 <li>Use git commit -m to commit my changes and write a short but detailed commit message (I think my messages could use some work)</li>
 <li>Use git push origin main to push my changes to my remote repository on github</li>
 
-I really enjoyed this project. It was fun to finally implement the stuff I've been learning so far. Throughout the project I had to go back to previous lessons
+<p>I really enjoyed this project. It was fun to finally implement the stuff I've been learning so far. Throughout the project I had to go back to previous lessons
 to refresh my memory. I also ran into a silly mistake where my lists would skip a line. I pasted my code into a validator and saw I accidentally typed l1 instead
-of li. I look forward to improving my knowledge of HTML and to be able to build cool websites!
+of li. I look forward to improving my knowledge of HTML and to be able to build cool websites!</p>
