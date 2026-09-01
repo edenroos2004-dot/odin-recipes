@@ -1,0 +1,39 @@
+html{
+    background-color: rgb(224,221,213);
+    margin-left: -8px;
+    margin-top: -16px;
+    margin-right: -8px;
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: 'Times New Roman', Courier, monospace;
+    
+}
+
+.title{
+    background-color: rgb(40,61,112);
+    padding: 8px;
+    
+
+}
+
+h1 {
+    margin:16px;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(40,61,112);
+    color: rgb(224,221,213);
+    border: 4px double rgb(198,147,75);
+    padding: 5px;
+    
+     
+}
+
+ul{
+    
+
+}
+
+
