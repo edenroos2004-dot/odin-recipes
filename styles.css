@@ -32,8 +32,23 @@ h1 {
 }
 
 ul{
-    
+    text-align: center;
+    list-style: none;
 
+}
+
+button{
+    box-sizing: content-box;
+    background-color:rgb(46,53,70) ;
+    color: rgb(224,221,213);
+    border: 4px double rgb(198,147,75);
+    margin-bottom: 10px;
+    width: 250px;
+    height: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+    
 }
 
 
